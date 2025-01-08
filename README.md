@@ -35,7 +35,7 @@
 <li><b>Lớp: <font size="3" >DA21TTB (Công nghệ thông tin B)</font></b></li></br>
 <li><b>MSSV <font size="3" >110121009</font></b></li></br>
 <li><b>Email: <a href="mailto:phamkhanhdang101@gmail.com" target="_blank" ><font size="3" >phamkhanhdang101@gmail.com</font></a></b></li></br>
-<li><b>Số điện thoại: <font size="3" >0706719494</font></b></li></br>
+
 
 <h2>Giảng viên hướng dẫn:</h2><br>
 
