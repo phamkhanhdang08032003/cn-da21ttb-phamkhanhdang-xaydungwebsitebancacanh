@@ -1,0 +1,247 @@
+nav.navbar {
+    background-image: url(../../img/GeenBackground.png);
+    height: 50px;
+    white-space: nowrap;
+}
+
+
+.nav-item {
+    padding: 0 5px;
+    white-space: nowrap;
+
+}
+
+li a.menu {
+    color: white;
+    padding: 0;
+    /* Bỏ khoảng cách thừa */
+    margin: 0;
+    /* Bỏ khoảng cách thừa */
+    list-style: none;
+    /* Bỏ dấu chấm danh sách */
+    white-space: nowrap;
+    /* Ngăn xuống dòng */
+}
+
+ul.menu2 {
+    /* background-color: #b1c23c; */
+    background-color: transparent;
+    border-radius: 12px 12px 12px 12px;
+    border: #b1c23c;
+}
+
+ul.menu2 li a {
+    color: white;
+
+}
+
+ul.menu2 li {
+    margin-top: 8px;
+    height: 20px;
+}
+
+div ul li:hover ul.menu2 li {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+section.home {
+    background-image: url(../../img/GeenBackground.png);
+    height: auto;
+    padding: 0 5px;
+    white-space: nowrap;
+}
+
+b.gia {
+    color: #b1c23c;
+}
+
+img.spnb {
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+img.aligncenter {
+    width: 65%;
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+h4 {
+    color: #b1c23c;
+    font-size: 28px;
+    font-weight: normal;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    text-align: center;
+    line-height: 40px;
+}
+
+h4.new {
+    color: #252a2b;
+    font-size: 17px;
+    font-weight: normal;
+    text-align: center;
+    font-weight: 300;
+    margin-top: -20px;
+}
+
+div.background {
+    background: #4B494E;
+    height: auto;
+}
+
+p.cauchuyen {
+    line-height: 30px;
+    font-weight: 400;
+    text-align: justify;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+h3.cauchuyen {
+    line-height: 28px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+a.xemthem {
+    color: white;
+    font-size: 20px;
+}
+
+a.tintuc {
+    color: #4B494E;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 500;
+}
+
+p.tintuc {
+    padding-top: 5px;
+    font-size: 17px;
+    line-height: 28px;
+}
+
+button.btn {
+    background-color: #a3c1c7;
+}
+
+p.ttlh:hover {
+    transform: scale(0.9);
+}
+
+ul.footer-menu {
+    margin-top: -15px;
+}
+
+a.chinhsach {
+    color: white;
+}
+
+div.footer-col {
+    margin-top: -20px;
+}
+
+button.đk {
+    background-color: black;
+}
+
+section.z {
+    margin-top: -47px;
+}
+
+div.icon1 {
+    margin-top: -50px;
+}
+
+input.noidung {
+    height: 70px;
+}
+
+textarea {
+    width: 300px;
+}
+
+a.chat {
+    text-decoration: none;
+}
+
+img.chat {
+    width: 25px;
+}
+
+p.a {
+    color: #cada67;
+    margin-top: 30px;
+}
+
+footer {
+    background-image: url(../../img/GeenBackground.png);
+}
+
+img.chat:hover {
+    transform: scale(0.8);
+}
+
+div.row div.px {
+    border: 1px solid rgb(206, 192, 192);
+}
+
+img.sanpham {
+    width: 80%;
+    max-height: 300px;
+}
+
+img.sanpham:hover {
+    transform: translateY(-20px);
+}
+
+h5 a.tensanpham {
+    color: rgb(184, 71, 90);
+    text-decoration: none;
+}
+
+h5 a.tensanpham:hover {
+    color: rgb(226, 9, 143);
+}
+
+b.gia {
+    color: rgb(247, 137, 27);
+}
+
+div.khung {
+    background-color: rgb(231, 216, 216);
+}
+
+p.stt {
+    margin: 4px;
+}
+
+p.stt a {
+    text-decoration: none;
+    color: rgb(94, 84, 86);
+}
+
+p.stt a:hover {
+    color: rgb(14, 18, 19);
+}
+
+button.btn {
+    background-color: #a3c1c7;
+}
+
+p.ttlh:hover {
+    transform: scale(0.9);
+}
+
+a.chinhsach {
+    color: white;
+}
